@@ -1,3 +1,9 @@
+---
+title: "Chapter 1: Biography"
+date: 2021-07-20
+---
+
+
 # Some about Lovecraft's biography.
 --------------------------------------------------------------------------
 
